@@ -1,6 +1,8 @@
 # Davids tips till mig själv (och kanske andra egenkonsulter)
 
-Har du frågor eller återkoppling? [Skapa ett ärende](https://github.com/twogood/egenkonsult-tips/issues).
+*Har du kommentarer, frågor, förbättringar eller annan återkoppling?
+[Skapa ett ärende på GitHub](https://github.com/twogood/egenkonsult-tips/issues) eller skriv ett inlägg i
+Facebook-gruppen [Vi som driver eget konsultbolag](https://www.facebook.com/groups/starta.eget.konsultbolag/).*
 
 Dessa mer eller mindre genomtänkta tips grundar sig i hur jag tycker och tänker. Använd dem inte utan att själv tänka
 efter först.
@@ -32,8 +34,7 @@ administration. Ibland kan en VA även jobba med bokföring.
 ### Du är nu också säljare och marknadsförare
 
 Något jag inte riktigt tänkte på, eller blundade för, när jag blev egenkonsult var att från den stunden var jag också
-min
-egen säljare och marknadsförare. Därför handlar ett antal tips just om hur du hanterar detta.
+min egen säljare och marknadsförare. Därför handlar ett antal tips just om hur du hanterar detta.
 
 ### Skillnaden mellan coach och mentor
 
@@ -60,9 +61,9 @@ Det finns en plattform som heter Zebrain för coaching online.
 Facklitteratur är naturligtvis avdragsgillt i ditt bolag. Köp fysiska böcker eller e-böcker, prenumerera på en
 ljudbokstjänst, osv.
 
-### Skaffa ett CRM
+### Skaffa ett Customer relationship management-system (CRM)
 
-Hantera dina kunder och samarbetspartners (tidigare, befintliga och möjliga) i ett CRM. Jag
+Hantera dina kunder och samarbetspartners (tidigare, befintliga och möjliga) i ett CRM. Jag själv
 använder [Nimble](https://www.nimble.com/referral-program/?discount_code=GARLY&lead_source=app). (OBS! Länken ger $25
 rabatt till dig och mig om du signar upp.) Jag har på min att göra-lista att hitta ett europeiskt alternativ för att
 hantera GDPR bättre.
@@ -104,8 +105,42 @@ Bjuder du på lunch så kan du dessutom ta upp det som extern representation i b
 gör det att du får två luncher för bolagets pengar istället för en lunch som du betalar med privat med lön från ditt
 bolag.
 
-## Referenser
+### Webbplats/hemsida
+
+Det allra viktigaste på din hemsida är det som på engelska kallas socialt bevis ("social proof" på engelska), som till
+exempel:
+
+* Kundrecensioner och testimonials (personliga rekommendationer)
+* Kundcase och framgångshistorier
+* Expert- eller kändisrekommendationer
+* Logotyper på samarbetspartners eller certifieringar som visar trovärdighet
+
+Detta för att personer som redan är intresserade av att samarbeta med dig ska känna sig trygga med det när de läser på
+din hemsida.
+
+Bry dig inte om sökmotoroptimering (om du inte är SEO-konsult själv) eller att köpa annonser.
+
+Om du inte är designer eller frontend-utvecklare så räcker det att webbdesignen är "good enough".
+
+## Boktips
+
+### The Referral of a Lifetime: Never Make a Cold Call Again!
+
+av Tim Templeton.
+
+Boken handlar om att systematiskt men ändå personligt bygga relationer med personer som kan rekommendera dig. Den är
+USA-centrisk och behöver därför anpassas till svenska förhållanden, och är inte exakt riktad till egenkonsulter. Men
+ändå inspirerande.
+
+### Influence: The Psychology of Persuasion
+
+av Robert B. Cialdini.
+
+Denna boken handlar bland annat om social proof.
+
+## Länkar
 
 - [Starta Eget Konsultbolag](https://github.com/tomasbjerre/starta-eget-konsultbolag) av Tomas Bjerre
+- Facebook-gruppen [Vi som driver eget konsultbolag](https://www.facebook.com/groups/starta.eget.konsultbolag/).
 - [Nimble CRM](https://www.nimble.com/referral-program/?discount_code=GARLY&lead_source=app). (OBS! Länken ger $25
-  rabatt till dig och mig om du signar upp.) 
+  rabatt till dig och mig om du signar upp.)
