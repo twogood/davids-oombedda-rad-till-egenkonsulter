@@ -1,4 +1,6 @@
-# Davids tips för egenkonsulter
+# Davids tips till mig själv (och kanske andra egenkonsulter)
+
+Har du frågor eller återkoppling? [Skapa ett ärende](https://github.com/twogood/egenkonsult-tips/issues).
 
 Dessa mer eller mindre genomtänkta tips grundar sig i hur jag tycker och tänker. Använd dem inte utan att själv tänka
 efter först.
@@ -19,7 +21,7 @@ Många av dessa tips kostar pengar. Vänta med att spendera tills du har tjänat
 
 Även om det finns tjänster som bokför nästan automatiskt så har jag valt att hyra in en bokföringsbyrå som hjälper mig.
 De jobbar mycket snabbare och bättre än vad jag gör. Mitt val av bokföringsprogram är Fortnox, men välj något du gillar
-och hitta en bokföringsbyrå som jobbar med det. Eller välj en bokföringsyrå som du gillar och använd det
+och hitta en bokföringsbyrå som jobbar med det. Eller välj en bokföringsbyrå som du gillar och använd det
 bokföringsprogram som de rekommenderar. Kom bara ihåg att du själv är ytterst ansvarig för att bokföringen är korrekt.
 
 ### Hyr en virtuell assistent (VA)
@@ -44,7 +46,7 @@ En mentor är typiskt någon som gjort samma sak som du men har kommit några å
 
 ### Hyr en coach (eller flera)
 
-Du behöver kära känna dig själv och jobba med dig själv. Som egenkonsult så är det du som är produkten och med hjälp av
+Du behöver lära känna dig själv och jobba med dig själv. Som egenkonsult så är det du som är produkten och med hjälp av
 en coach kan produkten bli ännu bättre.
 
 Prata med och testa olika coacher för att hitta någon som passar dig och som vill coacha dig.
@@ -73,16 +75,34 @@ Ha som strategi att systematiskt jobba med att bygga relationer med relevanta pe
 
 Följ personer hos dessa på LinkedIn, eller till och med skicka kontaktförfrågan om du kan göra det snyggt.
 
+### Bygg relationer
+
+Det är min fasta övertygelse att relationer mellan människor är grunden i att få uppdrag som egenkonsult.
+
+Dessa relationer kan t.ex. byggas via LinkedIn, via lunch/kaffe 1:1, eller på olika event om man jobbar strategiskt.
+
 ### Var aktiv på LinkedIn
 
 Håll din profil uppdaterad, kommentera andras inlägg, skriv egna inlägg, följ och lägg till potentiella kunder och
 partners i ditt nätverk.
 
-Om du är programmerare och nästan bara har programmerare i ditt nätverk så kanske de i bästa fall kan rekommendera
-dig till ett framtida uppdrag men tänk på att det är dina önskade kunder och samarbetspartners som du vill synas inför!
+Att tänka på: Om du är programmerare och nästan bara har programmerare i ditt nätverk så kanske de i bästa fall kan
+rekommendera dig till ett framtida uppdrag men tänk på att det är dina önskade kunder och samarbetspartners som du vill
+synas inför!
+
+LinkedIn är en hel vetenskap i sig så jag kommer säkert skriva mer om det.
 
 OBS! Det finns en hel marknad med "LinkedIn-coacher" av varierande kvalitet, var försiktig med att lägga pengar på
 sådana.
+
+### Bjud på lunch!
+
+Nästan alla människor äter lunch, och det kanske finns något i oss att dela en måltid med andra människor. Försök att
+luncha med viktiga personer i ditt nätverk minst en gång om året.
+
+Bjuder du på lunch så kan du dessutom ta upp det som extern representation i bokföringen och enligt mina beräkningar så
+gör det att du får två luncher för bolagets pengar istället för en lunch som du betalar med privat med lön från ditt
+bolag.
 
 ## Referenser
 
