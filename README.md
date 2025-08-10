@@ -122,6 +122,17 @@ Bry dig inte om sökmotoroptimering (om du inte är SEO-konsult själv) eller at
 
 Om du inte är designer eller frontend-utvecklare så räcker det att webbdesignen är "good enough".
 
+
+### Fyra ord jag betalt dyrt för
+
+För en lyckad affär, leta efter kunder som har ett problem som är:
+
+* Specifikt
+* Viktigt
+* Svårt
+* Brådskande
+
+
 ## Boktips
 
 ### The Referral of a Lifetime: Never Make a Cold Call Again!
