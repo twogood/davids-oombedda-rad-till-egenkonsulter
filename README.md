@@ -1,4 +1,4 @@
-# Davids tips till mig själv (och kanske andra egenkonsulter)
+# Tips som egenkonsulter kanske har nytta av
 
 *Har du kommentarer, frågor, förbättringar eller annan återkoppling?
 [Skapa ett ärende på GitHub](https://github.com/twogood/egenkonsult-tips/issues) eller skriv ett inlägg i
