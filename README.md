@@ -4,8 +4,8 @@
 [Skapa ett ärende på GitHub](https://github.com/twogood/egenkonsult-tips/issues) eller skriv ett inlägg i
 Facebook-gruppen [Vi som driver eget konsultbolag](https://www.facebook.com/groups/starta.eget.konsultbolag/).*
 
-Dessa mer eller mindre genomtänkta tips grundar sig i hur jag tycker och tänker. Använd dem inte utan att själv tänka
-efter först.
+Dessa mer eller mindre genomtänkta tips och råd grundar sig i hur *jag* tycker och tänker.
+Använd dem inte själv utan att tänka efter först.
 
 Det är en kombination av bland annat: startup-metodik, saker jag lärt mig av min coach och en bok som heter Referral of
 a lifetime av Tim Templeton. OBS! Boken är USA-centrisk och behöver anpassas till svenska förhållanden.
@@ -13,11 +13,16 @@ a lifetime av Tim Templeton. OBS! Boken är USA-centrisk och behöver anpassas t
 Detta är ett komplement till Tomas Bjerres
 sida [Starta Eget Konsultbolag](https://github.com/tomasbjerre/starta-eget-konsultbolag).
 
-## Osorterade tips
+## Osorterade tips och råd
 
 ### Sälj dina tjänster först, köp sedan
 
 Många av dessa tips kostar pengar. Vänta med att spendera tills du har tjänat pengar.
+
+### Ta mer betalt!
+
+Jag har insett att jag säljer mig själv för billigt. Risken är att du också gör det! 
+
 
 ### Hyr in hjälp med bokföring
 
@@ -68,6 +73,12 @@ använder [Nimble](https://www.nimble.com/referral-program/?discount_code=GARLY&
 rabatt till dig och mig om du signar upp.) Jag har på min att göra-lista att hitta ett europeiskt alternativ för att
 hantera GDPR bättre.
 
+Ett möjligt alternativ är [myflow](https://myflow.io) som är ett "affärssystem för soloprenörer och små bolag, med
+särskild inriktning på företag såsom konsulter och kreatörer" som
+jag kikat och där CRM är bara en modul av flera. Via kontakter har jag fått
+en [inbjudningslänk till ett kostnadsfritt konto *myflow Basic*](https://mfl.to/cLhQgGYb). (Inga kortuppgifter uppges och
+ingen tidsbegränsning.)
+
 ### Gör en lista över önskade kunder
 
 Med eller utan ett CRM så gör en lista över potentiella kunder i ditt geografiska område!
@@ -105,10 +116,18 @@ Bjuder du på lunch så kan du dessutom ta upp det som extern representation i b
 gör det att du får två luncher för bolagets pengar istället för en lunch som du betalar med privat med lön från ditt
 bolag.
 
-### Webbplats/hemsida
+### Domännamn, e-postadress, webbplats/hemsida
 
-Det allra viktigaste på din hemsida är det som på engelska kallas socialt bevis ("social proof" på engelska), som till
-exempel:
+Du behöver troligen inte ens en hemsida men du behöver en professionell e-postadress! Med ditt eget domännamn.
+
+I skrivande stund så har [HostUp](https://addrevenue.io/t?c=3465039&a=985377) väldigt bra pris på domännamn och jag har
+börjat flytta mina egna .se- och .nu-domäner dit. (OBS! Länken ger mig provision men jag skulle rekommendera dem ändå!)
+
+Jag själv använder Google Workspace kopplat till mitt domännamn för e-post, Google Docs och så vidare. Jag önskar att
+det fanns ett självklart europeiskt alternativ.
+
+När du väl gör en hemsida så är det viktigaste det som på engelska kallas socialt bevis ("social proof" på engelska),
+som till exempel:
 
 * Kundrecensioner och testimonials (personliga rekommendationer)
 * Kundcase och framgångshistorier
@@ -132,7 +151,6 @@ För en lyckad affär, leta efter kunder som har ett problem som är:
 * Svårt
 * Brådskande
 
-
 ## Boktips
 
 ### The Referral of a Lifetime: Never Make a Cold Call Again!
@@ -155,3 +173,4 @@ Denna boken handlar bland annat om social proof.
 - Facebook-gruppen [Vi som driver eget konsultbolag](https://www.facebook.com/groups/starta.eget.konsultbolag/).
 - [Nimble CRM](https://www.nimble.com/referral-program/?discount_code=GARLY&lead_source=app). (OBS! Länken ger $25
   rabatt till dig och mig om du signar upp.)
+- [HostUp](https://addrevenue.io/t?c=3465039&a=985377) har väldigt bra pris på domännamn. (OBS! Länken ger mig provision.)
